@@ -14,3 +14,7 @@ console.log("I am" +" "+ age + " "+ "years old.")
 bankAccount = 3000
 
 console.log("I found some money, now I have " + bankAccount + " dollars.")
+
+middleInital = "Adam"
+
+console.log("My full name is " +firstName + " " + middleInital + " " + lastName + ".")
